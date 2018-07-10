@@ -7,17 +7,17 @@ end
 
 
 
-def breakfast(cereal= "frosted flakes")
+def breakfast(cereal = "frosted flakes")
 "Morning time, is the right time for #{cereal}!"
 end
 breakfast("Lucky Charms")
 
-def lunch(sandwich= "Grilled Cheese")
+def lunch(sandwich = "Grilled Cheese")
 "Lunch is prefect for #{sandwich}!"
 end
 lunch("cheese sandwich")
 
-def dinner(meal= "salmon")
+def dinner(meal = "salmon")
 "Dinner time is the best time for #{meal}!"
 end
 dinner(spaghetti)
