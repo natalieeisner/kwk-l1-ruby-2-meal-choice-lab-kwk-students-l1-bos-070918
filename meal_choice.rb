@@ -11,7 +11,7 @@ def breakfast(cereal ="frosted flakes")
 end
 breakfast("Lucky Charms")
 
-def lunch(sandwich = "Grilled Cheese")
+def lunch(sandwich = "grilled cheese")
 "Lunch is prefect for #{sandwich}!"
 end
 lunch("cheese sandwich")
