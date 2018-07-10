@@ -7,7 +7,7 @@ end
 
 
 
-def breakfast(cerea ="frosted flakes")
+def breakfast(cereal ="frosted flakes")
 "Morning time, is the right time for #{cereal}!"
 end
 breakfast("Lucky Charms")
